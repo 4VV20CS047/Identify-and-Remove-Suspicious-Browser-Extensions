@@ -47,7 +47,7 @@ Enhance browser security by identifying and removing unnecessary or malicious ex
 ---
 
 ## 📊 Findings
-- **2 suspicious extensions** were removed.
+- **1 suspicious extensions** were removed.
 - Browser startup time improved.
 - Reduced the risk of potential **data theft & malicious activity**.
 
